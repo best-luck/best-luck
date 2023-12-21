@@ -2,19 +2,19 @@
  
 
 <!-- <div align="center">
- <img src="https://komarev.com/ghpvc/?username=atosguru&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
+ <img src="https://komarev.com/ghpvc/?username=edgeofcliff&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/atosguru?tab=followers"><img src="https://img.shields.io/github/followers/atosguru?style=social"></a>
+ <a href="https://github.com/edgeofcliff?tab=followers"><img src="https://img.shields.io/github/followers/edgeofcliff?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/atosguru"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;7%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/edgeofcliff"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;7%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
 ### 👨🏽‍💻 &nbsp;About EdgeOfCliff
 
-<img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/edgeofcliff/edgeofcliff/blob/main/coding.gif?raw=true">
 
 <p>
 Rich experience designing, developing, and implementing web applications.
@@ -30,29 +30,29 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 </div>
 
 <div align="center">
- <a href="https://github.com/atosguru?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=atosguru&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/atosguru?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=atosguru&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/edgeofcliff?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=edgeofcliff&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/edgeofcliff?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=edgeofcliff&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github.com/atosguru">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=atosguru&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github.com/edgeofcliff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=edgeofcliff&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/atosguru?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=atosguru&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/edgeofcliff?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=edgeofcliff&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/atosguru/atosguru/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/edgeofcliff/edgeofcliff/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/atosguru/atosguru/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/edgeofcliff/edgeofcliff/blob/main/code.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/atosguru/atosguru/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/edgeofcliff/edgeofcliff/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
@@ -106,7 +106,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     
 <!-- <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
- <img src="https://github-profile-trophy.vercel.app/?username=atosguru&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+ <img src="https://github-profile-trophy.vercel.app/?username=edgeofcliff&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </div> -->
 
     
