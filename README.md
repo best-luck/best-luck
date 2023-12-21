@@ -12,7 +12,7 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About AtosGuru
+### 👨🏽‍💻 &nbsp;About EdgeOfCliff
 
 <img align="right" alt="Coding" width="400" src="https://github.com/atosguru/atosguru/blob/main/coding.gif?raw=true">
 
