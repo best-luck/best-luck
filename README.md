@@ -12,17 +12,17 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About jay-klavans
+### 👨🏽‍💻 &nbsp;About Jay Klavans
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jay-klavans/jay-klavans/blob/main/coding.gif?raw=true">
 
 <p>
-As a Python Engineer, I possess a deep understanding of the Python programming language and its associated libraries, frameworks, and tools. I am proficient in developing scalable and high-performance applications, leveraging Python's robust ecosystem to build efficient and maintainable code. I have a strong grasp of object-oriented programming principles, design patterns, and best practices, allowing me to create robust and modular software solutions.
+As a Software Engineer, I possess a deep understanding of the Python programming language and its associated libraries, frameworks, and tools. I am proficient in developing scalable and high-performance applications, leveraging Python's robust ecosystem to build efficient and maintainable code. I have a strong grasp of object-oriented programming principles, design patterns, and best practices, allowing me to create robust and modular software solutions.
 
 In the realm of data science, I have a solid foundation in statistical analysis, machine learning, and data visualization. I am experienced in working with large datasets, performing exploratory data analysis, and applying advanced algorithms and techniques to extract valuable insights. I am skilled in using popular data science libraries and frameworks such as pandas, NumPy, scikit-learn, and TensorFlow to develop predictive models and build data-driven solutions.
 
 Rich experience designing, developing, and implementing web applications.
-Equipped with a diverse and promising skill-set: PHP, Laravel, JS, TS, React, Next, Node, etc. 
+Equipped with a diverse and promising skill-set: Ruby, Ruby on Rails, PHP, Laravel, JS, TS, React, Next, Node, etc. 
 Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using web3.js, Ethers.js, solidity on EVM.
 
 Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
