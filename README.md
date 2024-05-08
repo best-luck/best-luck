@@ -8,7 +8,7 @@
  <a href="https://github.com/jay-klavans?tab=followers"><img src="https://img.shields.io/github/followers/jay-klavans?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/jay-klavans"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data Scientist;Full%20Stack%20Developer;7%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/jay-klavans"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;Full%20Stack%20Developer;7%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
@@ -91,6 +91,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />  
     <img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=41B883" alt="Solidity logo" title="Solidity" height="20" />  
     <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=41B883" alt="Rust logo" title="Rust" height="20" />  
+    <img src="https://img.shields.io/badge/wordpress-283C56?logo=wordpress&logoColor=326790" alt="Wordpress logo" title="Wordpress" height="20" />  
    </td>
    <td valign="center" align="center" width="400px">
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F7DF1E" alt="MySQL logo" title="MySQL" height="20" />  
