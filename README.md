@@ -12,7 +12,7 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About Jay Klavans
+### 👨🏽‍💻 &nbsp;About Comer
 
 <img align="right" alt="Coding" width="400" src="https://github.com/comerr/comerr/blob/main/coding.gif?raw=true">
 
