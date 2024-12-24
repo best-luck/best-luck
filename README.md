@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/best-luck/best-luck/blob/main/coding.gif?raw=true">
 
 <p>
-I am a dedicated IoT developer with over six years of experience in designing and implementing smart solutions across various industries. With expertise in both hardware and software, Alex specializes in developing scalable IoT applications that enhance connectivity and data analytics. Passionate about leveraging technology to create efficient systems, Alex is committed to driving innovation and sustainability in the IoT space.
+I am a dedicated IoT developer with over eight years of experience in designing and implementing smart solutions across various industries. With expertise in both hardware and software, Alex specializes in developing scalable IoT applications that enhance connectivity and data analytics. Passionate about leveraging technology to create efficient systems, Alex is committed to driving innovation and sustainability in the IoT space.
 
 Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
 
