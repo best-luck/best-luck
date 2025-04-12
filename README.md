@@ -8,7 +8,7 @@
  <a href="https://github.com/best-luck?tab=followers"><img src="https://img.shields.io/github/followers/best-luck?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/best-luck"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/best-luck"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;IoT / Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
@@ -17,13 +17,15 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/best-luck/best-luck/blob/main/coding.gif?raw=true">
 
 <p>
-As a Senior Fullstack Engineer with over 8 years of experience, I specialize in building robust and scalable web applications. My expertise spans both front-end and back-end technologies, including JavaScript, React, Node.js, and Python. I have a strong foundation in database management with SQL and NoSQL systems, ensuring efficient data handling and retrieval.
+As a Senior Fullstack & IoT Engineer with over 8 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and hardware. My technical foundation spans across JavaScript (React, Node.js), Python, and embedded systems, with deep expertise in both cloud-connected web platforms and IoT device integration.
 
-I am passionate about delivering high-quality software solutions, adhering to best practices in code quality and performance optimization. My experience includes leading cross-functional teams through the software development lifecycle, from requirements gathering to deployment and maintenance.
+I bring a holistic approach to development—combining front-end excellence, backend architecture, and efficient database design (SQL & NoSQL) to build seamless, data-driven applications. Whether it’s real-time dashboards, edge-device communication, or full-stack web platforms, I ensure solutions are optimized, secure, and production-ready.
 
-I thrive in agile environments and have a proven track record of collaborating with product managers, designers, and other stakeholders to create user-centric applications. My commitment to continuous learning keeps me abreast of emerging technologies and industry trends, allowing me to drive innovation within my team.
+Throughout my career, I’ve led cross-functional teams and delivered complex products from concept to launch—collaborating closely with designers, product managers, and hardware engineers in agile, fast-paced environments. I champion clean code, performance optimization, and test-driven development, and I’m constantly exploring emerging tech to keep my work innovative and future-proof.
 
-In my spare time, I contribute to open-source projects and enjoy mentoring junior developers, sharing my knowledge and fostering a culture of collaboration and growth.
+My IoT work includes integrating sensor networks, real-time telemetry, and edge computing solutions with cloud APIs and intuitive user interfaces. I'm passionate about building connected systems that make data actionable and deliver real-world impact.
+
+Beyond my core work, I contribute to open-source projects, mentor junior engineers, and foster a culture of knowledge-sharing, innovation, and growth.
 
 </p>
 
