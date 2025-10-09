@@ -17,13 +17,13 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/best-luck/best-luck/blob/main/coding.gif?raw=true">
 
 <p>
-As a Senior Fullstack & AI Engineer with over 9 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and hardware. My technical foundation spans across JavaScript (React, Node.js), Python, and embedded systems, with deep expertise in both cloud-connected web platforms and IoT device integration.
+As a Senior Fullstack & AI Engineer with over 9 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and intelligent systems. My technical foundation spans JavaScript (React, Node.js) and Python, with deep expertise in building cloud-connected web platforms and AI-powered applications.
 
-I bring a holistic approach to development—combining front-end excellence, backend architecture, and efficient database design (SQL & NoSQL) to build seamless, data-driven applications. Whether it’s real-time dashboards, edge-device communication, or full-stack web platforms, I ensure solutions are optimized, secure, and production-ready.
+I bring a holistic approach to development—combining front-end excellence, backend architecture, and efficient database design (SQL & NoSQL) to build seamless, data-driven solutions. Whether it’s real-time dashboards, mobile applications (Flutter & React Native), or full-stack web platforms, I ensure solutions are optimized, secure, and production-ready.
 
-Throughout my career, I’ve led cross-functional teams and delivered complex products from concept to launch—collaborating closely with designers, product managers, and hardware engineers in agile, fast-paced environments. I champion clean code, performance optimization, and test-driven development, and I’m constantly exploring emerging tech to keep my work innovative and future-proof.
+Throughout my career, I’ve led cross-functional teams and delivered complex products from concept to launch—collaborating closely with designers, product managers, and engineers in agile, fast-paced environments. I champion clean code, performance optimization, and test-driven development, and I’m constantly exploring emerging technologies to keep my work innovative and future-proof.
 
-My IoT work includes integrating sensor networks, real-time telemetry, and edge computing solutions with cloud APIs and intuitive user interfaces. I'm passionate about building connected systems that make data actionable and deliver real-world impact.
+My recent work includes AI-driven system design, integrating machine learning models into production-grade applications for intelligent automation, predictive analytics, and enhanced user experience. I’m passionate about building smart, data-centric systems that deliver real-world impact.
 
 Beyond my core work, I contribute to open-source projects, mentor junior engineers, and foster a culture of knowledge-sharing, innovation, and growth.
 
