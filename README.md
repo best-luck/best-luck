@@ -35,12 +35,8 @@ Beyond my core work, I contribute to open-source projects, mentor junior enginee
 ### Languages
 <table>
     <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
-        <br><h4>C#</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".Net" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/dotnet.jpg" /></a>
-        <br><h4>.Net</h4>
+        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" /></a>
+        <br><h4>Dart</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
