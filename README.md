@@ -8,7 +8,7 @@
  <a href="https://github.com/best-luck?tab=followers"><img src="https://img.shields.io/github/followers/best-luck?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/best-luck"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;IoT%20and%20Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/best-luck"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;AI%20and%20Full%20Stack%20Developer;9%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
