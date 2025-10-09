@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/best-luck/best-luck/blob/main/coding.gif?raw=true">
 
 <p>
-As a Senior Fullstack & IoT Engineer with over 8 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and hardware. My technical foundation spans across JavaScript (React, Node.js), Python, and embedded systems, with deep expertise in both cloud-connected web platforms and IoT device integration.
+As a Senior Fullstack & AI Engineer with over 9 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and hardware. My technical foundation spans across JavaScript (React, Node.js), Python, and embedded systems, with deep expertise in both cloud-connected web platforms and IoT device integration.
 
 I bring a holistic approach to development—combining front-end excellence, backend architecture, and efficient database design (SQL & NoSQL) to build seamless, data-driven applications. Whether it’s real-time dashboards, edge-device communication, or full-stack web platforms, I ensure solutions are optimized, secure, and production-ready.
 
@@ -112,6 +112,14 @@ Beyond my core work, I contribute to open-source projects, mentor junior enginee
         <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
         <br><h4>Angular</h4>
     </td>
+    <td align="center" width="90">
+        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" /></a>
+        <br><h4>Flutter</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png?raw=true" /></a>
+        <br><h4>React Native</h4>
+    </td> 
     <td align="center" width="90">
         <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
         <br><h4>Vue</h4>
