@@ -133,6 +133,8 @@ Beyond my core work, I contribute to open-source projects, mentor junior enginee
         <br><h4>Jest</h4>
     </td>
     <td align="center" width="90">
+        <a href="https://jestjs.io/" target="_blank"><img alt="Jest" width="45" height="45" style="padding:10px;" src="https://github.com/github/explore/blob/main/topics/swift/swift.png?raw=true" /></a>
+        <br><h4>Swift</h4>
     </td>
 </table>
 
